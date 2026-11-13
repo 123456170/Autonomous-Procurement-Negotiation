@@ -80,7 +80,6 @@ CSS = """
 @keyframes drift{0%{background-position:0% 0%,100% 100%,50% 100%,0 0,0 0,0 0}
                  100%{background-position:100% 40%,0% 60%,20% 80%,0 0,0 0,0 0}}
 [data-testid="stHeader"]{background:transparent}
-[data-testid="stToolbar"]{display:none}
 footer{display:none}
 [data-testid="stHeaderActionElements"], a.anchor-link{display:none !important}
 [data-testid="stMainBlockContainer"]{padding-top:1.1rem; padding-bottom:2.2rem; max-width:1520px}
